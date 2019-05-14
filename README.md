@@ -7,7 +7,7 @@ A group of ethnographers analyze some oral history data they've collected by int
 -For some i and j, person Pi died before person Pj was born
 -For some i and j, the life spans of Pi and Pj overlapped
 
-Efficiently decide if the data provided is consistent.
+Figure out if the data provided by the villagers is consistent.
 
 Problem 2:
 Given a set of unsigned paintings created by two different artists whom we will call X and Y, researchers are trying to figure out which artist painted each one. They don't have any data on which artist painted each painting, but they do have data of the following form:
@@ -15,7 +15,7 @@ Given a set of unsigned paintings created by two different artists whom we will 
 -For some i and j, the same artist created paintings Pi and Pj
 -For some i and j, different artists created paintings Pi and Pj
 
-We can't reason about which artist painted each painting from this data, but we can figure out if it is consistent.\\
+We can't reason about which artist painted each painting from this data, but we can figure out if it is consistent.
 
 A writeup of solution proofs is provided in FinalProject.pdf
 
