@@ -4,16 +4,16 @@ Problem 1:
 
 A group of ethnographers analyze some oral history data they've collected by interviewing members of a village to learn about the lives of the people who've lived there over the past few hundred years. Every bit of data provided by the villagers comes in one of two forms:
 
--For some $i$ and $j$, person $P_i$ died before person $P_j$ was born
--For some $i$ and $j$, the life spans of $P_i$ and $P_j$ overlapped
+-For some i and j, person Pi died before person Pj was born
+-For some i and j, the life spans of Pi and Pj overlapped
 
 Efficiently decide if the data provided is consistent.
 
 Problem 2:
 Given a set of unsigned paintings created by two different artists whom we will call X and Y, researchers are trying to figure out which artist painted each one. They don't have any data on which artist painted each painting, but they do have data of the following form:
 
--For some $i$ and $j$, the same artist created paintings $p_i$ and $p_j$
--For some $i$ and $j$, different artists created paintings $p_i$ and $p_j$
+-For some i and j, the same artist created paintings Pi and Pj
+-For some i and j, different artists created paintings Pi and Pj
 
 We can't reason about which artist painted each painting from this data, but we can figure out if it is consistent.\\
 
