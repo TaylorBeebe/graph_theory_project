@@ -1,0 +1,6 @@
+p1 b p2
+p2 b p3
+p1 b p3
+p3 s p4
+p4 b p5
+p5 s p6
